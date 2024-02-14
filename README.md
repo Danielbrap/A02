@@ -6,7 +6,7 @@
     - On Mac Git should be installed if not you can download it from Homebrew. First, install Homebrew by pasting             "/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" into the               terminal. Then, to install Git, paste "brew install git" into the terminal.
     - Type git version into your terminal/command line to check if it's installed.
 2. How to Join GitHub
-     - You go on your favorite web browser and go to Github https://github.com/ and create and an account there
+     - You go on your favorite web browser and go to Github https://github.com/ and create an account there
 3. Webstrom
     - You can install Webstrom from this link https://www.jetbrains.com/student/
     - Once installed click on it in downloads and continue clicking next until the end
@@ -19,7 +19,7 @@
 5. Create a Repository on GitHub
     - On the homepage click on the + sign on the upper right
     - Click Create New Repository 
-    - Then click create Repository
+    - Then click Create Repository
 6. How to Import a Repository from Gitthub
    - In the repository, click the green "Code" button and copy the HTTPS URL.
    - If you closed Webstorm, open it up again.
@@ -32,4 +32,18 @@
    - Then, a text box should appear; add your commit message (YOU HAVE TO ADD ONE) and click "Commit."
    - Go to VCS -> Git -> Push or Ctrl ->Shift -> K
    - Select the committed file and click "Push."
-   - The file should now be on Github 
+   - The file should now be on Github
+
+**Part 2 Definitions for Terms**
+- **Branch**: A copy of the main **repository**. **Branches** can be a new version of a **repository**, experimental changes, or personal forks of a **repository** for users to alter and test changes.
+- **Clone**: A **clone** is an exact copy of a **repository**. When **cloning** a **repository** into another **branch**, the new **branch** becomes a remote-tracking **branch** that can talk upstream to its origin **branch** (via **pushes**, **pulls**, and **fetches**).
+- **Commit**: The action of saving changes made to a file or set of files. They should always have a message, such as a brief description of what has changed.
+- **Fetch**: You are downloading and copying that **branch's** files to your workstation. Multiple **branches** can be **fetched** at once.
+- **GIT**: An open-source software used for tracking and documenting your changes in files via a version control system.
+- **Github**: A platform that hosts repositories and helps users store files, track code, and collaborate on projects (with version control).
+- **Merge**: Taking the changes from one **branch** and adding them into another (normally main) **branch**. These **commits** are usually first requested via **pull** request before being **merged** by someone.
+- **Merge Conflict**: An error when **merging** is usually because two things are merging at the same time.
+- **Push**: Updates a **remote** **branch** with the commits made to the current **branch**.
+- **Pull**: This is when adding the changes to the main **branch**.
+ -**Remote**: A copy of the original **branch**.
+- **Repository**: This is a directory that stores all the files, folders, and content needed for your project. 
