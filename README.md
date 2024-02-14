@@ -6,7 +6,7 @@
     - On Mac Git should be installed if not you can download it from Homebrew. First, install Homebrew by pasting             "/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" into the               terminal. Then, to install Git, paste "brew install git" into the terminal.
     - Type git version into your terminal/command line to check if it's installed.
 2. How to Join GitHub
-     - You go on your favorite web browser and go to Github https://github.com/ and create an account there
+     - You go on your favorite web browser and go to Github https://github.com/ and create an account here
 3. Webstrom
     - You can install Webstrom from this link https://www.jetbrains.com/student/
     - Once installed click on it in downloads and continue clicking next until the end
@@ -46,4 +46,12 @@
 - **Push**: Updates a **remote** **branch** with the commits made to the current **branch**.
 - **Pull**: This is when adding the changes to the main **branch**.
  -**Remote**: A copy of the original **branch**.
-- **Repository**: This is a directory that stores all the files, folders, and content needed for your project. 
+- **Repository**: This is a directory that stores all the files, folders, and content needed for your project.
+
+**References**
+Ajibola, Segun. “How to Use Git and GitHub – Introduction for Beginners.” freeCodeCamp, 26 Sept. 2022, www.freecodecamp.org/news/introduction-to-git-and-github/#what-are-git-and-github. 
+GeeksforGeeks. “Git Merge and Merge Conflict.” GeeksforGeeks, 5 Apr. 2022, www.geeksforgeeks.org/git-merge-and-merge-conflict. 
+Git. “A Git Glossary.” Git, git-scm.com/docs/gitglossary#def_chain. 
+Hendela, Arthur. “Introduction to Github and Webstorm.” Canvas, 18 Mar. 2019, njit.instructure.com/courses/33677/files/5972199?module_item_id=1281701. 
+Krout, Elle. “Git Definitions and Terminology Cheat Sheet.” Pluralsight, 8 June 2023, www.pluralsight.com/resources/blog/cloud/git-terms-explained#merge. 
+W3Schools. “Git Commit.” W3Schools, www.w3schools.com/git/git_commit.asp.  
